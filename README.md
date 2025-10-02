@@ -32,6 +32,3 @@ Deploy a simple nginx application on a local Kubernetes cluster using Minikube. 
 ## Notes
 - Service uses NodePort (30080) so you can access the app at the URL returned by `minikube service --url`.
 - Replace `nginx:stable` with a custom image if you want to demo your own app.
-
-## Submission
-Upload this repository to GitHub and paste the repo link in the provided submission form.
